@@ -1,39 +1,28 @@
-## Welcome to GitHub Pages
+# Hello! 👋
 
-Hello! 👋
+Welcome to my blog. I'm Milena, a software developer, agile practicioner, coach and leader and a remote work enthusiast. 😃
 
-You can use the [editor on GitHub](https://github.com/MilenaMMay/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Talks
+* 2021, November, internally at MOIA: "How a people positive mindset can help you communicating"
+* 2021, October, Agile Tour London: ["The agile leadership mindset: Embracing continuous change as a leader"](https://aginext.com/agile-tour-london-2021-conference/#Milena)
+* 2021, October, [Netlight's Code Pub meetup](https://codepub.netlight.com/): "Growing into a leadership role"
+* 2021, internally at MOIA: "Haha, Women and Tech"
+* 2021, internally at MOIA: "Wildlife Gardening"
+* 2021, February, internally at MOIA: "Decision making processes"
+* 2019, April, Agile & Lean Illes Balears Palma meetup: "Product Owner and Developer Collaboration - how we started to use Behaviour Driven Development to develop a shared understanding of the product" 
+* 2018, November, Ruby User Group meetup and XP Days Hamburg: ["Remote Collaboration"](https://www.xpdays.de/2018/sessions/901-remote-collaboration.html)
+* 2016, April, Agilia Conference Olomouc: "Beyond agile teams - improving the company with agile methods"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Blogposts
 
-### Markdown
+WIP: re-blogging from other blogs I created and new content ✍️
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* ...
 
-```markdown
-Syntax highlighted code block
+## Previous blogs
+I like blogging but it's not easy to stick with it. 🙃 Will maybe port some of my previous blog posts here.
+* https://medium.com/@milenammay (2019)
+* http://agile-improvements.blogspot.com/ (20015 - 2016)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MilenaMMay/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Get in touch 💬
+You can find me on [LinkedIn](https://de.linkedin.com/in/milena-mercedes-may-027a15157) or [Twitter](https://twitter.com/milenammay).
