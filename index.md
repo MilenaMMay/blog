@@ -12,8 +12,8 @@ WIP: re-blogging from other blogs I created and new content ✍️
 
 ### Previous blogs
 I like blogging but it's not easy to stick with it. 🙃 Will maybe port some of my previous blog posts here.
-* https://medium.com/@milenammay (2019)
-* http://agile-improvements.blogspot.com/ (20015 - 2016)
+* [https://medium.com/@milenammay](https://medium.com/@milenammay) (2019)
+* [http://agile-improvements.blogspot.com/](http://agile-improvements.blogspot.com/) (20015 - 2016)
 
 ### Talks
 * 2021, November, internally at MOIA: "How a people positive mindset can help you communicating"
