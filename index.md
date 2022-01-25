@@ -1,4 +1,4 @@
-# Agile Software Development | Leadership | Remote Work - by Milena
+# Agile | Leadership | Remote - by Milena
 
 ## Hello! 👋
 
