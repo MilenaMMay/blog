@@ -6,7 +6,7 @@ Welcome to my blog. I'm Milena, a software developer, agile practicioner, coach 
 
 ### Blogposts
 
-* [2022, January: "Games & activities to facilitate fun remotely"](/blog/2022-01-26_remote_games.md)
+* [2022, January: "Games & activities to facilitate fun remotely"](/blog/2022-01-26_remote_games.html)
 
 ... WIP ✍️
 
