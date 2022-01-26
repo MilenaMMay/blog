@@ -2,7 +2,6 @@
 layout: post
 title: "Games & activities to facilitate fun remotely"
 date: 2022-01-26
-categories: remote facilitation
 ---
 
 # Games & activities to facilitate fun remotely
