@@ -81,3 +81,5 @@ You also lose when you don’t react properly to a “Simon says” command.
 Another good trick is to say “Simon says raise your hand” and instead shaking your head or not doing anything at all.
 
 Enjoy confusing your peers!
+
+➡️ [Back to root](/blog)
