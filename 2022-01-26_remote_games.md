@@ -1,7 +1,7 @@
 # Games & activities to facilitate fun remotely
 When working remotely, you might miss fun moments with your team. Working remotely does not mean you may not have chit chat or downtime.
 
-Here's a collection of virtual activities that you can include as icebreakers or at the end of a meeting if there is time left. Or setup a virtual team event.
+Here's a collection of virtual activities that you can include as icebreakers or at the end of a meeting if there is time left. Or to set up a virtual team event.
 
 ## Alternatives to video conferencing and break out sessions
 More fun “walking around” and chatting in smaller spontaneous groups
@@ -16,7 +16,10 @@ More fun “walking around” and chatting in smaller spontaneous groups
 ## Secrecy games
 Find out who is in your team and who is acting against you. If you can stand some secrecy and telling lies, enjoy either
 
-* Among us ([iPhone](https://apps.apple.com/us/app/among-us/id1351168404) | [Android](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US) | [PC](https://store.steampowered.com/app/945360/Among_Us/)) - here you find the [maps](https://www.pcgamesn.com/among-us/maps-layout-vents) (tip: best select a server in Europe if you are based in Europe because of latency issues)
+* Among us - here you find the [maps](https://www.pcgamesn.com/among-us/maps-layout-vents) (tip: best select a server in Europe if you are based in Europe because of latency issues)
+  * [iPhone](https://apps.apple.com/us/app/among-us/id1351168404) 
+  * [Android](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US) 
+  * [PC](https://store.steampowered.com/app/945360/Among_Us/)
 * or [Werewolf](https://anjuansimmons.com/blog/how-to-play-werewolf-over-zoom/)
 
 ## Codenames
@@ -54,8 +57,8 @@ Use [https://burble.buzz/](https://burble.buzz/) for fun questions - get one, le
 ## “A am a tree” improvisation game
 A person starts representing something, poses like it, says e.g. “I am a tree” stays in the pose and the next person chimes in, e.g. “I am an apple”, then the next “I am the worm”.
 
-After three images, the first person resolves the chain and choses “I keep the [apple | worm]”.
-Then the person who got chosen starts again stating “I am [an apple | a worm] and repeating the image, starting a new chain of associative images.
+After three images, the first person resolves the chain and choses “I keep the apple (or worm)”.
+Then the person who got chosen starts again stating “I am an apple (or a worm) and repeating the image, starting a new chain of associative images.
 
 The poses can also be with movement and especially when you are onsite and use the full room running around representing something it’s even more fun!
 
