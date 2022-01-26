@@ -6,9 +6,11 @@ Welcome to my blog. I'm Milena, a software developer, agile practicioner, coach 
 
 ### Blogposts
 
-WIP: re-blogging from other blogs I created and new content ✍️
+* [Remote Games](/_posts/remote_games.html)
+* [Remote Games](/posts/remote_games.html)
+* [Foo](/foo.html)
 
-* ...
+WIP: re-blogging from other blogs I created and new content ✍️
 
 ### Previous blogs
 I like blogging but it's not easy to stick with it. 🙃 Will maybe port some of my previous blog posts here.
