@@ -1,9 +1,3 @@
----
-layout: post
-title: "Games & activities to facilitate fun remotely"
-date: 2022-01-26
----
-
 # Games & activities to facilitate fun remotely
 When working remotely, you might miss fun moments with your team. Working remotely does not mean you may not have chit chat or downtime.
 
