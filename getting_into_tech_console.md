@@ -1,4 +1,4 @@
-# Getting into tech: first steps
+# Getting into tech: explore the console
 
 I recently talked with a friend who'd like to get into tech and didn't know where to start. It can feel intimidating to think that techies have studied many years until they started their first job.
 But I also know some techies who came from a non tech background and now are excellent in their tech job. So I wanted to support her to get a first hands on glimpse into tech. 👩‍💻
