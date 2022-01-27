@@ -113,3 +113,5 @@ If you're pushing every commit to your main branch and it that gets deployed by 
 ## Feeling challenged? 💪
 
 Are you doing CI/CD yet? How close can you get to "true" CI/CD? 🤘
+
+⬅️ [Back](/blog)
