@@ -29,3 +29,7 @@ I like blogging but it's not easy to stick with it. 🙃 Will maybe port some of
 
 ### Get in touch 💬
 You can find me on [LinkedIn](https://de.linkedin.com/in/milena-mercedes-may-027a15157) or [Twitter](https://twitter.com/milenammay).
+
+
+* [Foo](/blog/posts/foo.html)
+* [Foo](/blog/_posts/foo.html)
