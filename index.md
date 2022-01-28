@@ -6,10 +6,9 @@ Welcome to my blog. I'm Milena, a software developer, agile practicioner, coach 
 
 ### Blogposts
 
-* [2022, January: "Optimizing your development and deployment workflows"](/blog/development_and_deployment.html)
-* [2022, January: "Games & activities to facilitate fun remotely"](/blog/remote_games.html)
-
-... WIP ✍️
+* [Getting into tech: explore the console](/blog/getting_into_tech_console.html) (2020, Jan)
+* [Optimizing your development and deployment workflows](/blog/development_and_deployment.html) (2020, Jan)
+* [Games & activities to facilitate fun remotely](/blog/remote_games.html) (2020, Jan)
 
 ### Previous blogs
 I like blogging but it's not easy to stick with it. 🙃 Will maybe port some of my previous blog posts here.
