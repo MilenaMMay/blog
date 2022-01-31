@@ -63,3 +63,7 @@ https://www.collaborationsuperpowers.com/122-holiday-parties-for-virtual-teams/
 ## Twitter
 https://twitter.com/chris_herd 
 https://twitter.com/rdutel 
+
+# My own experince
+https://medium.com/mindmatters-de/gemeinsam-remote-arbeiten-522bfbf864a9
+TODO: link talk
