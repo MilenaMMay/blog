@@ -8,6 +8,7 @@ More fun “walking around” and chatting in smaller spontaneous groups
 
 * [https://www.gather.town/](https://www.gather.town/)
 * [https://spatial.chat/](https://spatial.chat/)
+* [https://www.weve.co/?hsLang=en](https://www.weve.co/?hsLang=en) - no walking around but different video meeting concept
 
 ## Drawing games
 * [https://skribbl.io/](https://skribbl.io/) (like pictionary - draw and guess)
@@ -55,11 +56,16 @@ Rules:
 * when there’s “Game Over”, count the points and announce the winner! 🎉
 
 ## Facilitated chat
-Use [https://burble.buzz/](https://burble.buzz/) for fun questions - get one, let someone answer and chose the next person, repeat!
+* Use [https://burble.buzz/](https://burble.buzz/) for fun questions - get one, let someone answer and chose the next person, repeat!
+* Icebreaker questions with [https://icebreakers.equalexperts.com/](https://icebreakers.equalexperts.com/)
+* more serious retrospective checkins with [https://tscheck.in/](https://tscheck.in/)
 
-## Bomb escape game
+## Escape games
 
-[https://escape-the-boom.com/](https://escape-the-boom.com/)
+* [https://escape-the-boom.com/](https://escape-the-boom.com/)
+* facilitated escape game events
+  * [https://theescapegame.com/](https://theescapegame.com/)
+  * [https://www.outbackteambuilding.com/remote/virtual-clue-murder-mystery/](https://www.outbackteambuilding.com/remote/virtual-clue-murder-mystery/)
 
 ## “A am a tree” improvisation game
 A person starts representing something, poses like it, says e.g. “I am a tree” stays in the pose and the next person chimes in, e.g. “I am an apple”, then the next “I am the worm”.
@@ -88,5 +94,9 @@ You also lose when you don’t react properly to a “Simon says” command.
 Another good trick is to say “Simon says raise your hand” and instead shaking your head or not doing anything at all.
 
 Enjoy confusing your peers!
+
+## Team building / gaming platforms
+* [https://www.withconfetti.com/](https://www.withconfetti.com/)
+* [https://www.outbackteambuilding.com/](https://www.outbackteambuilding.com/)
 
 ⬅️ [Back](/blog)
