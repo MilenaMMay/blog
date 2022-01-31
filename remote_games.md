@@ -26,12 +26,12 @@ Find out who is in your team and who is acting against you. If you can stand som
 ## Codenames
 Play in two teams against each other:
 
-Each team selects a spymaster.
-The spymaster sees which word belong to which team and which word is the bomb.
-The spymaster gives hints like "country 3" and writes that in the chat for future reference.
-The team then may guess up to 3 words that they associate with "country", e.g. "UK", "state", "map".
-If they guess a wrong word, it's the other team's turn. If they guess the bomb word, the game is over and they lost.
-The team that guesses all their words first, wins.
+* Each team selects a spymaster.
+* The spymaster sees which word belong to which team and which word is the bomb.
+* The spymaster gives hints like "country 3" and writes that in the chat for future reference.
+* The team then may guess up to 3 words that they associate with "country", e.g. "UK", "state", "map".
+* If they guess a wrong word, it's the other team's turn. If they guess the bomb word, the game is over and they lost.
+* The team that guesses all their words first, wins.
 
 * [https://codenames.game/](https://codenames.game/)
 * [https://horsepaste.com/](https://horsepaste.com/)
