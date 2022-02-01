@@ -1,7 +1,7 @@
 # Green IT companies in Germany
 
 [MOIA](https://www.moia.io/en) has been the first company I worked for with a green mission. Before, I always chose an employer that would do nothing harmful so that at least I don't contribute to something bad.
-Having experienced that it is possible to work for a green mission AND earn money, I raised the bar higher on my next job search and will continue to work for a green mission in my next job at [Resourcify](https://www.resourcify.de/).
+Having experienced that it is possible to work for a green mission AND earn money, I included this criteria in my next job search and will continue to work for a green mission in my next job at [Resourcify](https://www.resourcify.de/).
 
 I want to share with you my list of IT companies in Germany with a green or sustainability mission so that you as well can contribute to something good while earning money.
 
