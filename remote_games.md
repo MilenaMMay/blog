@@ -8,7 +8,7 @@ More fun “walking around” and chatting in smaller spontaneous groups
 
 * [https://www.gather.town/](https://www.gather.town/)
 * [https://spatial.chat/](https://spatial.chat/)
-* [https://www.weve.co/?hsLang=en](https://www.weve.co/?hsLang=en) - no walking around but different video meeting concept
+* [https://www.weve.co](https://www.weve.co/?hsLang=en) - no walking around but different video meeting concept
 
 ## Drawing games
 * [https://skribbl.io/](https://skribbl.io/) (like pictionary - draw and guess)
