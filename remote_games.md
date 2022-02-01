@@ -8,6 +8,7 @@ More fun “walking around” and chatting in smaller spontaneous groups
 
 * [https://www.gather.town/](https://www.gather.town/)
 * [https://spatial.chat/](https://spatial.chat/)
+* [https://www.weve.co](https://www.weve.co/?hsLang=en) - no walking around but different video meeting concept
 
 ## Drawing games
 * [https://skribbl.io/](https://skribbl.io/) (like pictionary - draw and guess)
@@ -25,12 +26,12 @@ Find out who is in your team and who is acting against you. If you can stand som
 ## Codenames
 Play in two teams against each other:
 
-Each team selects a spymaster.
-The spymaster sees which word belong to which team and which word is the bomb.
-The spymaster gives hints like "country 3" and writes that in the chat for future reference.
-The team then may guess up to 3 words that they associate with "country", e.g. "UK", "state", "map".
-If they guess a wrong word, it's the other team's turn. If they guess the bomb word, the game is over and they lost.
-The team that guesses all their words first, wins.
+* Each team selects a spymaster.
+* The spymaster sees which word belong to which team and which word is the bomb.
+* The spymaster gives hints like "country 3" and writes that in the chat for future reference.
+* The team then may guess up to 3 words that they associate with "country", e.g. "UK", "state", "map".
+* If they guess a wrong word, it's the other team's turn. If they guess the bomb word, the game is over and they lost.
+* The team that guesses all their words first, wins.
 
 * [https://codenames.game/](https://codenames.game/)
 * [https://horsepaste.com/](https://horsepaste.com/)
@@ -55,11 +56,16 @@ Rules:
 * when there’s “Game Over”, count the points and announce the winner! 🎉
 
 ## Facilitated chat
-Use [https://burble.buzz/](https://burble.buzz/) for fun questions - get one, let someone answer and chose the next person, repeat!
+* Use [https://burble.buzz/](https://burble.buzz/) for fun questions - get one, let someone answer and chose the next person, repeat!
+* Icebreaker questions with [https://icebreakers.equalexperts.com/](https://icebreakers.equalexperts.com/)
+* more serious retrospective checkins with [https://tscheck.in/](https://tscheck.in/)
 
-## Bomb escape game
+## Escape games
 
-[https://escape-the-boom.com/](https://escape-the-boom.com/)
+* [https://escape-the-boom.com/](https://escape-the-boom.com/)
+* facilitated escape game events
+  * [https://theescapegame.com/](https://theescapegame.com/)
+  * [https://www.outbackteambuilding.com/remote/virtual-clue-murder-mystery/](https://www.outbackteambuilding.com/remote/virtual-clue-murder-mystery/)
 
 ## “A am a tree” improvisation game
 A person starts representing something, poses like it, says e.g. “I am a tree” stays in the pose and the next person chimes in, e.g. “I am an apple”, then the next “I am the worm”.
@@ -88,5 +94,9 @@ You also lose when you don’t react properly to a “Simon says” command.
 Another good trick is to say “Simon says raise your hand” and instead shaking your head or not doing anything at all.
 
 Enjoy confusing your peers!
+
+## Team building / gaming platforms
+* [https://www.withconfetti.com/](https://www.withconfetti.com/)
+* [https://www.outbackteambuilding.com/](https://www.outbackteambuilding.com/)
 
 ⬅️ [Back](/blog)
