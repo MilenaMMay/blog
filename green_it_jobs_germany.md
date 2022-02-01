@@ -5,9 +5,9 @@ Having experienced that it is possible to work for a green mission AND earn mone
 
 I want to share with you my list of IT companies in Germany with a green or sustainability mission so that you as well can contribute to something good while earning money.
 
-Inspired by https://github.com/danielbayerlein/remote-jobs-germany and https://github.com/remoteintech/remote-jobs
+Inspired by [https://github.com/danielbayerlein/remote-jobs-germany](https://github.com/danielbayerlein/remote-jobs-germany) and [https://github.com/remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 
-I used the [list in this blog post](https://www.speedinvest.com/blog/europes-leadership-in-climate-tech), [https://forpurposejobs.com/](https://forpurposejobs.com/) and [https://www.greentech.earth/](https://www.greentech.earth/) as sources as well as the company's job ads. Feel free to create a Pull Request more companies and correct assumptions if you have more insights.
+I used the [list in this blog post](https://www.speedinvest.com/blog/europes-leadership-in-climate-tech), [https://forpurposejobs.com/](https://forpurposejobs.com/) and [https://www.greentech.earth/](https://www.greentech.earth/) as sources as well as the company's job ads. Feel free to [create a Pull Request](https://github.com/MilenaMMay/blog) to add more companies and correct assumptions if you have more insights.
 
 | Name & Profiles | Category | Locations | Working Mode | Tech Stack | Language |
 |---|---|---|---|---|---|
@@ -38,3 +38,5 @@ I used the [list in this blog post](https://www.speedinvest.com/blog/europes-lea
 | Resourcify<br>https://www.resourcify.de/ | Circular economy | Hamburg | Remote First | Angular, Java, Typescript | English |
 | right. based on science<br>https://www.right-basedonscience.de/ | Sustainable finance | Frankfurt | Remote possible | Kotlin, Vue.js, Typescript | German |
 | Tomorrow<br>https://www.tomorrow.one/de-DE/jobs/ | Sustainable finance | Hamburg | Remote possible | Java, Kotlin, Kubernetes | German |
+
+⬅️ [Back](/blog)
