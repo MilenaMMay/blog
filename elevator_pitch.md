@@ -1,4 +1,4 @@
-# Elevator Pitch
+# Facilitiation Method: Elevator Pitch
 
 This method can be used when starting a new product or epic to align about the core of what you want to build.
 
