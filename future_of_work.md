@@ -65,7 +65,7 @@ I created this list of companies and individuals sharing their experience about 
 * [Chris Herd](https://twitter.com/chris_herd)
 * [Rodolphe Dutel](https://twitter.com/rdutel)
 
-# My own experince
+# My own experience
 * [Blogpost: gemeinsam remote arbeiten (German)](https://medium.com/mindmatters-de/gemeinsam-remote-arbeiten-522bfbf864a9)
 * [Talk: Remote Collaboration](https://drive.google.com/file/d/1V6Sxq5rcyDbQyuqphxGhBVXnpfSgeKpi/view?usp=sharing)
 
