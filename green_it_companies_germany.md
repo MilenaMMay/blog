@@ -34,7 +34,7 @@ I used the [list in this blog post](https://www.speedinvest.com/blog/europes-lea
 | node.energy<br>https://www.node.energy/ | Energy | Frankfurt | Remote First | Python, Javascript | German |
 | Ostrom<br>https://www.ostrom.de/our-team | Energy | Berlin | Remote First | React Native, TS, Docker | ? |
 | Plan A<br>https://plana.earth/ | Zero pollution | Berlin | Remote First | React, PHP | English |
-| Refurbed<br>https://www.refurbed.de/jobs/ | Circular economy | Vienna | Remote First | Vue | English |
+| Refurbed<br>https://www.refurbed.de/jobs/ | Circular economy | Vienna (Austria, but as far as I understood you may also live in Germany) | Remote First | Vue | English |
 | Resourcify<br>https://www.resourcify.de/ | Circular economy | Hamburg | Remote First | Angular, Java, Typescript | English |
 | right. based on science<br>https://www.right-basedonscience.de/ | Sustainable finance | Frankfurt | Remote possible | Kotlin, Vue.js, Typescript | German |
 | Tomorrow<br>https://www.tomorrow.one/de-DE/jobs/ | Sustainable finance | Hamburg | Remote possible | Java, Kotlin, Kubernetes | German |
