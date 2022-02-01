@@ -10,3 +10,5 @@ Fill in the blanks: best start as individuals to get different ideas and perspec
 * that _______________ (solves which problem?)
 * unlike _______________ (alternatives?)
 * by _______________ (key features?)
+
+⬅️ [Back](/blog)
