@@ -14,6 +14,7 @@ I used the [list in this blog post](https://www.speedinvest.com/blog/europes-lea
 | [&ever](https://and-ever.com/) | Food | Munich, Hamburg, Singapore | Partially remote | Python, Docker | ? |
 | [Ampeers Energy](https://ampeersenergy.de/) | Energy | Munich, Erfurt, Dresden | Remote First ? | React, Node.js, Python | German |
 | [ANNEA](https://annea.ai/) | Energy | Hamburg, Lisbon | Partially remote | C, C++, Python, Java, Java Script | English |
+| [Atlas Metrics](https://www.atlasmetrics.io/) | ESG data | Berlin | Berlin office or Remote | React, Typescript, Serverless, AWS | English |
 | [ChargeX](https://chargex.de/) | Mobility | Munich | Remote possible | Python | English |
 | [Choco](https://www.choco.com/de/) | Food | Berlin | ? | Serverless, GraphQL | English |
 | [Circuly](https://www.circuly.io/jobs) | Circular economy | ? | Remote First | PHP | English |
