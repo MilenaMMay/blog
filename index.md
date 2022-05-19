@@ -5,13 +5,13 @@
 Welcome to my blog. I'm Milena, a software developer, agile practicioner, coach and leader and a remote work enthusiast. 😃
 
 ### Blogposts
-
-* [Green IT companies ín Germany](/blog/green_it_companies_germany.html) (2020, Feb)
-* [Future of Work](/blog/future_of_work.html) (2020, Feb)
-* [Facilitation: Elevator Pitch](/blog/elevator_pitch.html) (2020, Feb)
-* [Getting into tech: explore the console](/blog/getting_into_tech_console.html) (2020, Jan)
-* [Optimizing your development and deployment workflows](/blog/development_and_deployment.html) (2020, Jan)
-* [Games & activities to facilitate fun remotely](/blog/remote_games.html) (2020, Jan)
+* [One-on-ones](/blog/one_on_ones.html) (2022, May)
+* [Green IT companies in Germany](/blog/green_it_companies_germany.html) (2022, Feb)
+* [Future of Work](/blog/future_of_work.html) (2022, Feb)
+* [Facilitation: Elevator Pitch](/blog/elevator_pitch.html) (2022, Feb)
+* [Getting into tech: explore the console](/blog/getting_into_tech_console.html) (2022, Jan)
+* [Optimizing your development and deployment workflows](/blog/development_and_deployment.html) (2022, Jan)
+* [Games & activities to facilitate fun remotely](/blog/remote_games.html) (2022, Jan)
 
 ### Previous blogs
 I like blogging but it's not easy to stick with it. 🙃 Will maybe port some of my previous blog posts here.
