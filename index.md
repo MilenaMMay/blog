@@ -2,7 +2,7 @@
 
 ## Hello! 👋
 
-Welcome to my blog. I'm Milena, a software developer, agile practicioner, coach and leader and a remote work enthusiast. 😃
+Welcome to my blog. I'm Milena, a software developer, agile practitioner, coach and leader and a remote work enthusiast. 😃
 
 ### Blogposts
 * [One-on-ones](/blog/one_on_ones.html) (2022, May)
